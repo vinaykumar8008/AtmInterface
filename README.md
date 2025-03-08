@@ -79,7 +79,7 @@ Provides real-world banking operations simulation.
 
 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contributions
 
